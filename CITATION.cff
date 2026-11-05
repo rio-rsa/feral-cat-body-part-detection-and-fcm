@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the paper listed in the README."
+type: software
+title: "Automatic body-part-based individual feral cat identification: YOLOv12 and the Feature Concatenation Model"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/rio-rsa/feral-cat-body-part-detection-and-fcm"
+authors:
+  - family-names: Akbar
+    given-names: Rio Rifqi Syah
+    affiliation: Murdoch University
+  - family-names: Rees
+    given-names: Matthew W.
+    affiliation: CSIRO
+  - family-names: Fleming
+    given-names: Patricia A.
+    affiliation: Murdoch University
+  - family-names: Sohel
+    given-names: Ferdous
+    affiliation: Murdoch University
+keywords:
+  - feral cat
+  - individual identification
+  - camera traps
+  - object detection
+  - YOLOv12
+  - deep learning
